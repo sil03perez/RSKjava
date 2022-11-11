@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
  
-
+//ola
 public class cargar_tabla_usuario {
     public static Connection cnn = conexion.conectar();
      public static DefaultTableModel user;
